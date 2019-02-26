@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iksenserver:war">
+    <output-path>$PROJECT_DIR$/iksenserver/target</output-path>
+    <root id="archive" name="ik-sen-server.war">
+      <element id="artifact" artifact-name="iksenserver:war exploded" />
+    </root>
+  </artifact>
+</component>
